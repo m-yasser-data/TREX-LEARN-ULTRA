@@ -1,0 +1,174 @@
+{
+  "semesters": [
+    {
+      "slug": "first-semester",
+      "order": 1,
+      "name_en": "First Semester",
+      "name_ar": "الفصل_الدراسي_الأول",
+      "courses": [
+        {
+          "slug": "Commercial_Law",
+          "name_en": "Commercial_Law",
+          "name_ar": "القانون_التجاري",
+          "display_title": "Commercial_Law - القانون_التجاري",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Principles_of_Marketing",
+          "name_en": "Principles_of_Marketing",
+          "name_ar": "مبادئ_التسويق",
+          "display_title": "Principles_of_Marketing - مبادئ_التسويق",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Logistics_and_Supply_Chain_Management",
+          "name_en": "Logistics_and_Supply_Chain_Management",
+          "name_ar": "إدارة_اللوجستيات_وسلاسل_الإمداد",
+          "display_title": "Logistics_and_Supply_Chain_Management - إدارة_اللوجستيات_وسلاسل_الإمداد",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Microeconomics",
+          "name_en": "Microeconomics",
+          "name_ar": "مبادئ_الاقتصاد_الجزئي",
+          "display_title": "Microeconomics - مبادئ_الاقتصاد_الجزئي",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Cost_Accounting",
+          "name_en": "Cost_Accounting",
+          "name_ar": "مبادئ_محاسبة_التكاليف",
+          "display_title": "Cost_Accounting - مبادئ_محاسبة_التكاليف",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "second-semester",
+      "order": 2,
+      "name_en": "Second Semester",
+      "name_ar": "الفصل_الدراسي_الثاني",
+      "courses": [
+        {
+          "slug": "Operations_and_Production_Management",
+          "name_en": "Operations_and_Production_Management",
+          "name_ar": "إدارة_الإنتاج_والعمليات",
+          "display_title": "Operations_and_Production_Management - إدارة_الإنتاج_والعمليات",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Management_Information_System",
+          "name_en": "Management_Information_System",
+          "name_ar": "نظم_المعلومات_الأعمال",
+          "display_title": "Management_Information_System - نظم_المعلومات_الأعمال",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Business_Analytics",
+          "name_en": "Business_Analytics",
+          "name_ar": "تحليلات_الأعمال",
+          "display_title": "Business_Analytics - تحليلات_الأعمال",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Managerial_Accounting",
+          "name_en": "Managerial_Accounting",
+          "name_ar": "محاسبة_إدارية",
+          "display_title": "Managerial_Accounting - محاسبة_إدارية",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Foreign_Language_2",
+          "name_en": "Foreign_Language_2",
+          "name_ar": "لغة_أجنبية_2",
+          "display_title": "Foreign_Language_2 - لغة_أجنبية_2",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        },
+        {
+          "slug": "Principles_of_Financial_Management",
+          "name_en": "Principles_of_Financial_Management",
+          "name_ar": "مبادئ_الإدارة_المالية",
+          "display_title": "Principles_of_Financial_Management - مبادئ_الإدارة_المالية",
+          "files": [
+            {
+              "id": "file-1",
+              "title": "مذكرة الفصل الأول",
+              "coverImage": "https://placehold.co/400x600/f59e0b/ffffff?text=Download+PDF",
+              "downloadUrl": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
